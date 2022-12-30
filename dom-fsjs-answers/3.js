@@ -1,0 +1,1 @@
+document.querySelector(".accordion-homepage").innerHTML += `<section class="parent"><h3>My New FAQ</h3></section>`;
